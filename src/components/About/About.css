@@ -35,3 +35,15 @@
     margin-top: 2em;
   }
 }
+
+.img {
+  height: 400px;
+  margin-top: 3em;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.top_info {
+  display: flex;
+  justify-content: space-between;
+}
