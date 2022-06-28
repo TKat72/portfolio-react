@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://TKat72.github.io',
+  homepage: 'https://main--sparkling-lily-63070f.netlify.app',
   title: 'JS.',
 }
 
