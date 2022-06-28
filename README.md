@@ -6,7 +6,7 @@
 <!-- ![img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)
 <img src="https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif" alt="My Project GIF" width="500" height="600"> -->
 
-<img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
+<img src="./myScreen.gif" alt="My Project GIF" width="500" height="400">
 
 [See Live](https://sparkling-lily-63070f.netlify.app)
 
