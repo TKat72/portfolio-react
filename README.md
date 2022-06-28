@@ -1,12 +1,11 @@
 # Cleanfolio
 
-A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out [Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
-
 ## Preview
 
 <!-- [![Img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)](https://sparkling-lily-63070f.netlify.app) -->
 ![img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)
 
+<img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
 
 [See Live](https://sparkling-lily-63070f.netlify.app)
 
