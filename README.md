@@ -4,40 +4,27 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[![Img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)](https://sparkling-lily-63070f.netlify.app)
+<!-- [![Img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)](https://sparkling-lily-63070f.netlify.app) -->
+![img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)
 
 
-[See Live](https://rajshekhar26.github.io/cleanfolio)
+[See Live](https://sparkling-lily-63070f.netlify.app)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
+git clone https://github.com/TKat72/portfolio-react.git
+
 ```
 
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
 
 ```shell
-nvm install
-nvm use
+npm install
+npm start
 ```
 
-Or -
-
-```shell
-fnm install
-fnm use
-```
-
-Install and run -
-
-```shell
-yarn
-yarn start
-```
 
 ### How to use
 
