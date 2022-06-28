@@ -4,8 +4,8 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-<!-- [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio) -->
-<embed src="https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.mov" allowfullscreen="true" width="600"></embed>
+[![Img](https://artstargarm2-backet.s3.amazonaws.com/Screen+Recording+2022-06-28+at+5.42.41+AM.gif)](https://sparkling-lily-63070f.netlify.app)
+
 
 [See Live](https://rajshekhar26.github.io/cleanfolio)
 
