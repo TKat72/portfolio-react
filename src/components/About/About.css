@@ -30,7 +30,7 @@
 }
 
 @media (max-width: 600px) {
-  .app .about .top_info{
+  .app .about .top_info {
     align-items: flex-start;
     margin-top: 2em;
   }
@@ -47,8 +47,9 @@
   display: flex;
   justify-content: space-between;
 }
+
 @media (max-width: 600px) {
-  .top_info{
+  .top_info {
     flex-direction: column;
   }
 }

@@ -15,12 +15,12 @@ const About = () => {
           <>
             {/* <img src={me1} className="img" alt={name}/> */}
             <h1>
-              I am <span className='about__name'>{name}.</span>
+           <span className='about__name'>{name}</span>
             </h1>
           </>
         )}
 
-        {role && <h2 className='about__role'>A {role}.</h2>}
+        {role && <h2 className='about__role'>{role}</h2>}
         <p className='about__desc'>{description && description}</p>
 
         <div className='about__contact center'>
