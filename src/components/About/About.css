@@ -52,4 +52,14 @@
   .top_info {
     flex-direction: column;
   }
+
+  .img {
+    padding: 40px 40px;
+
+  }
+
+  .about__name {
+
+    text-align: center;
+  }
 }
