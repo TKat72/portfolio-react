@@ -15,7 +15,7 @@ const About = () => {
           <>
             {/* <img src={me1} className="img" alt={name}/> */}
             <h1>
-           <span className='about__name'>{name}</span>
+              <span className='about__name'>{name}</span>
             </h1>
           </>
         )}
@@ -25,7 +25,7 @@ const About = () => {
 
         <div className='about__contact center'>
           {resume && (
-            <a href={resume}>
+            <a href={resume} target="_blank" rel="noreferrer noopener">
               <span type='button' className='btn btn--outline'>
                 Resume
               </span>
@@ -39,6 +39,7 @@ const About = () => {
                   href={social.github}
                   aria-label='github'
                   className='link link--icon'
+                  target="_blank" rel="noreferrer noopener"
                 >
                   <GitHubIcon />
                 </a>
@@ -49,6 +50,7 @@ const About = () => {
                   href={social.linkedin}
                   aria-label='linkedin'
                   className='link link--icon'
+                  target="_blank" rel="noreferrer noopener"
                 >
                   <LinkedInIcon />
                 </a>

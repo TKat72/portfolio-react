@@ -128,8 +128,13 @@ main {
   border: 0;
 }
 
+
+
 .btn--plain:hover {
   transform: translateY(-4px);
+  color: var(--clr-bg);
+  background-color: var(--clr-primary);
+
 }
 
 .btn--icon {
