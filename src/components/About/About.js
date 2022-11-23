@@ -1,6 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import me1 from './me1.png'
+// import me1 from './me1.png'
 import my3 from './my3.JPG'
 import { about } from '../../portfolio'
 import './About.css'
