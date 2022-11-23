@@ -9,7 +9,7 @@ const about = {
   name: 'Kateryna Tsymbal',
   role: 'Software Engineer',
   description:
-    "Hello there, I'm Kat. Newly graduate from App Academy and I'm looking for my first Software Engineering job. After years of observing how the world changes so quickly, and new technologies camming every day I  what to be part of this great progress.  I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products.",
+    "Hello there, I'm Kat. I graduated from App Academy not so long ago and now I'm looking for my first Software Engineering opportunity. After years of observing how the world changes so quickly, and new technologies appearing every day, I want to be part of this great progress. I am always open to challenges and constructive feedback, open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to developing high-quality and unique products.",
   resume: 'https://docs.google.com/document/d/144spJqQPp88vD34UEXY8SU-qjBW9Mxn-A3JckK5QU48/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/kateryna-tsymbal-2824b219a/',
